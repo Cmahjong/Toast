@@ -4,6 +4,7 @@ import 'dart:async';
 import 'package:flutter/services.dart';
 import 'package:toast_plugin/toast_plugin.dart';
 
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
@@ -12,7 +13,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _platformVersion = 'Unknown';
 
   @override
   void initState() {

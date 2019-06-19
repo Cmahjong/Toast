@@ -2,7 +2,7 @@ name: toast_plugin
 description: Toast for android ，short and long
 version: 0.0.1
 author: yinjin<yjaiyy5130019@gmail.com>
-homepage:
+homepage: https://github.com/yinjinyj/Toast/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
